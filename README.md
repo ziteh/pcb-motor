@@ -4,7 +4,7 @@ AF-PMSM (axial flux permanent magnet synchronous machine) PCB stator, inspired b
 
 ## Note
 
-### Slot/Pole
+### Slot/Pole Topology
 
 In the design of a PMSM, selecting the slot/pole topology is the first step [5].
 
@@ -29,7 +29,7 @@ where:
 - $N_s$ is the total number of slots.
 - $p$ is the number of pole pairs.
 
-### Topology
+### Winding
 
 Based on [1], the winding layout can be categorized into the following types:
 1. Concentric
