@@ -25,7 +25,7 @@ Q=\frac{N_{s}}{3\cdot 2p}
 $$
 
 where:
-- $Q$ is the slot per pole per phase (SPP).
+- $Q$ is the slot per pole per phase.
 - $N_s$ is the total number of slots.
 - $p$ is the number of pole pairs.
 
@@ -50,6 +50,10 @@ The motor specifications are as follows:
 - PCB layers: 6
 - Copper thickness: 140μm
 - Air gap: 1mm
+
+### Rotor
+
+For permanent magnet rotors, the Halbach array can be considered.
 
 ## Ref
 
